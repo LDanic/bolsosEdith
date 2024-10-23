@@ -1,0 +1,669 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0054.jpg"
+        },
+        {
+            "id": 2,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0055.jpg"
+        },
+        {
+            "id": 3,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0056.jpg"
+        },
+        {
+            "id": 4,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0057.jpg"
+        },
+        {
+            "id": 5,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0058.jpg"
+        },
+        {
+            "id": 6,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0059.jpg"
+        },
+        {
+            "id": 7,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0060.jpg"
+        },
+        {
+            "id": 8,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0061.jpg"
+        },
+        {
+            "id": 9,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0062.jpg"
+        },
+        {
+            "id": 10,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0063.jpg"
+        },
+        {
+            "id": 11,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0064.jpg"
+        },
+        {
+            "id": 12,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0065.jpg"
+        },
+        {
+            "id": 13,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0066.jpg"
+        },
+        {
+            "id": 14,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0067.jpg"
+        },
+        {
+            "id": 15,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0068.jpg"
+        },
+        {
+            "id": 16,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0069.jpg"
+        },
+        {
+            "id": 17,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0070.jpg"
+        },
+        {
+            "id": 18,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0071.jpg"
+        },
+        {
+            "id": 19,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0072.jpg"
+        },
+        {
+            "id": 20,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0073.jpg"
+        },
+        {
+            "id": 21,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0074.jpg"
+        },
+        {
+            "id": 22,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0075.jpg"
+        },
+        {
+            "id": 23,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0076.jpg"
+        },
+        {
+            "id": 24,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0077.jpg"
+        },
+        {
+            "id": 25,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0078.jpg"
+        },
+        {
+            "id": 26,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0079.jpg"
+        },
+        {
+            "id": 27,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0080.jpg"
+        },
+        {
+            "id": 28,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0081.jpg"
+        },
+        {
+            "id": 29,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0082.jpg"
+        },
+        {
+            "id": 30,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0083.jpg"
+        },
+        {
+            "id": 31,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0084.jpg"
+        },
+        {
+            "id": 32,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0085.jpg"
+        },
+        {
+            "id": 33,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0086.jpg"
+        },
+        {
+            "id": 34,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0087.jpg"
+        },
+        {
+            "id": 35,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0088.jpg"
+        },
+        {
+            "id": 36,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0089.jpg"
+        },
+        {
+            "id": 37,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0090.jpg"
+        },
+        {
+            "id": 38,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0091.jpg"
+        },
+        {
+            "id": 39,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0092.jpg"
+        },
+        {
+            "id": 40,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0093.jpg"
+        },
+        {
+            "id": 41,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0094.jpg"
+        },
+        {
+            "id": 42,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0095.jpg"
+        },
+        {
+            "id": 43,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0096.jpg"
+        },
+        {
+            "id": 44,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0097.jpg"
+        },
+        {
+            "id": 45,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0098.jpg"
+        },
+        {
+            "id": 46,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0099.jpg"
+        },
+        {
+            "id": 47,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0100.jpg"
+        },
+        {
+            "id": 48,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0101.jpg"
+        },
+        {
+            "id": 49,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0102.jpg"
+        },
+        {
+            "id": 50,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0103.jpg"
+        },
+        {
+            "id": 51,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0104.jpg"
+        },
+        {
+            "id": 52,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0105.jpg"
+        },
+        {
+            "id": 53,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0106.jpg"
+        },
+        {
+            "id": 54,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0107.jpg"
+        },
+        {
+            "id": 55,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0108.jpg"
+        },
+        {
+            "id": 56,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0109.jpg"
+        },
+        {
+            "id": 57,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0110.jpg"
+        },
+        {
+            "id": 58,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0111.jpg"
+        },
+        {
+            "id": 59,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0112.jpg"
+        },
+        {
+            "id": 60,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0113.jpg"
+        },
+        {
+            "id": 61,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0114.jpg"
+        },
+        {
+            "id": 62,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0115.jpg"
+        },
+        {
+            "id": 63,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0116.jpg"
+        },
+        {
+            "id": 64,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0117.jpg"
+        },
+        {
+            "id": 65,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0118.jpg"
+        },
+        {
+            "id": 66,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0119.jpg"
+        },
+        {
+            "id": 67,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0120.jpg"
+        },
+        {
+            "id": 68,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0121.jpg"
+        },
+        {
+            "id": 69,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0122.jpg"
+        },
+        {
+            "id": 70,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0123.jpg"
+        },
+        {
+            "id": 71,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0124.jpg"
+        },
+        {
+            "id": 72,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0125.jpg"
+        },
+        {
+            "id": 73,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0126.jpg"
+        },
+        {
+            "id": 74,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0127.jpg"
+        },
+        {
+            "id": 75,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0128.jpg"
+        },
+        {
+            "id": 76,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0129.jpg"
+        },
+        {
+            "id": 77,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0130.jpg"
+        },
+        {
+            "id": 78,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0131.jpg"
+        },
+        {
+            "id": 79,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0132.jpg"
+        },
+        {
+            "id": 80,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0133.jpg"
+        },
+        {
+            "id": 81,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0134.jpg"
+        },
+        {
+            "id": 82,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0135.jpg"
+        },
+        {
+            "id": 83,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0136.jpg"
+        },
+        {
+            "id": 84,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0137.jpg"
+        },
+        {
+            "id": 85,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0138.jpg"
+        },
+        {
+            "id": 86,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0139.jpg"
+        },
+        {
+            "id": 87,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0140.jpg"
+        },
+        {
+            "id": 88,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0141.jpg"
+        },
+        {
+            "id": 89,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0142.jpg"
+        },
+        {
+            "id": 90,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0143.jpg"
+        },
+        {
+            "id": 91,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0144.jpg"
+        },
+        {
+            "id": 92,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0145.jpg"
+        },
+        {
+            "id": 93,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0146.jpg"
+        },
+        {
+            "id": 94,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0147.jpg"
+        },
+        {
+            "id": 95,
+            "name": "",
+            "price": "",
+            "category": "",
+            "image": "./assets/productos/IMG-20241022-WA0148.jpg"
+        }
+    ]
+}
