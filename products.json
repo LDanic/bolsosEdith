@@ -2,668 +2,283 @@
     "products": [
         {
             "id": 1,
-            "name": "",
+            "name": "Bolso Tatis Azul",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0054.jpg"
+            "category": "Bolso Tatis",
+            "special": false,
+            "images": [
+                "./assets/productos/Tatis-Azul.jpeg",
+                "./assets/productos/Tatis-Azul2.jpeg",
+                "./assets/productos/Tatis-Azul3.jpeg"
+            ]
         },
         {
             "id": 2,
-            "name": "",
+            "name": "Bolso Tatis Verde",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0055.jpg"
+            "category": "Bolso Tatis",
+            "special": false,
+            "images": [
+                "./assets/productos/Tatis-Verde.jpeg",
+                "./assets/productos/Tatis-Verde2.jpeg",
+                "./assets/productos/Tatis-Verde3.jpeg"
+            ]
         },
         {
             "id": 3,
-            "name": "",
+            "name": "Bolso Tatis Negro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0056.jpg"
+            "category": "Bolso Tatis",
+            "special": false,
+            "images": [
+                "./assets/productos/Tatis-Negro.jpeg",
+                "./assets/productos/Tatis-Negro2.jpeg",
+                "./assets/productos/Tatis-Negro3.jpeg"
+            ]
         },
         {
             "id": 4,
-            "name": "",
+            "name": "Bolso Tatis Nude",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0057.jpg"
+            "category": "Bolso Tatis",
+            "special": false,
+            "images": [
+                "./assets/productos/Tatis-Nude.jpeg",
+                "./assets/productos/Tatis-Nude2.jpeg",
+                "./assets/productos/Tatis-Nude3.jpeg"
+            ]
         },
         {
             "id": 5,
-            "name": "",
+            "name": "Bolso Tatis Beige",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0058.jpg"
+            "category": "Bolso Tatis",
+            "special": false,
+            "images": [
+                "./assets/productos/Tatis-Beige.jpeg",
+                "./assets/productos/Tatis-Beige3.jpeg"
+            ]
         },
         {
             "id": 6,
-            "name": "",
+            "name": "Bolso Tatis Vinotinto",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0059.jpg"
+            "category": "Bolso Tatis",
+            "special": true,
+            "images": [
+                "./assets/productos/Tatis-Vinotinto.jpeg",
+                "./assets/productos/Tatis-Vinotinto2.jpeg",
+                "./assets/productos/Tatis-Vinotinto3.jpeg"
+            ]
         },
         {
             "id": 7,
-            "name": "",
+            "name": "Bolso Alejandra Negro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0060.jpg"
+            "category": "Bolso Alejandra",
+            "special": true,
+            "images": [
+                "./assets/productos/Alejandra-Negro.jpeg",
+                "./assets/productos/Alejandra-Negro2.jpeg"
+            ]
         },
         {
             "id": 8,
-            "name": "",
+            "name": "Bolso Alejandra Nude",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0061.jpg"
+            "category": "Bolso Alejandra",
+            "special": false,
+            "images": [
+                "./assets/productos/Alejandra-Nude2.jpeg",
+                "./assets/productos/Alejandra-Nude.jpeg"
+            ]
         },
         {
             "id": 9,
-            "name": "",
+            "name": "Bolso Alejandra Vinotinto",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0062.jpg"
+            "category": "Bolso Alejandra",
+            "special": false,
+            "images": [
+                "./assets/productos/Alejandra-Vinotinto.jpeg"
+            ]
         },
         {
             "id": 10,
-            "name": "",
+            "name": "Bolso Alejandra Cafe",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0063.jpg"
+            "category": "Bolso Alejandra",
+            "special": false,
+            "images": [
+                "./assets/productos/Alejandra-Cafe.jpeg"
+            ]
         },
         {
             "id": 11,
-            "name": "",
+            "name": "Bolso Alejandra Verde",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0064.jpg"
+            "category": "Bolso Alejandra",
+            "special": false,
+            "images": [
+                "./assets/productos/Alejandra-Verde.jpeg",
+                "./assets/productos/Alejandra-Verde2.jpeg"
+            ]
         },
         {
             "id": 12,
-            "name": "",
+            "name": "Bolso Alejandra Gris Claro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0065.jpg"
+            "category": "Bolso Alejandra",
+            "special": false,
+            "images": [
+                "./assets/productos/Alejandra-Gris-Claro.jpeg",
+                "./assets/productos/Alejandra-Gris-Claro2.jpeg"
+            ]
         },
         {
             "id": 13,
-            "name": "",
+            "name": "Manos libre H Vintinto",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0066.jpg"
+            "category": "Mano libre H",
+            "special": false,
+            "images": [
+                "./assets/productos/ManosLibresH-Vinotinto.jpeg",
+                "./assets/productos/ManosLibresH-Vinotinto2.jpeg"
+            ]
         },
         {
             "id": 14,
-            "name": "",
+            "name": "Manos libre H Gris Claro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0067.jpg"
+            "category": "Mano libre H",
+            "special": false,
+            "images": [
+                "./assets/productos/ManosLibresH-GrisClaro.jpeg",
+                "./assets/productos/ManosLibresH-GrisClaro2.jpeg"
+            ]
         },
         {
             "id": 15,
-            "name": "",
+            "name": "Manos libre H Rojo",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0068.jpg"
+            "category": "Mano libre H",
+            "special": false,
+            "images": [
+                "./assets/productos/ManosLibresH-Rojo.jpeg",
+                "./assets/productos/ManosLibresH-Rojo2.jpeg"
+            ]
         },
         {
             "id": 16,
-            "name": "",
+            "name": "Manos libre H Beige",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0069.jpg"
+            "category": "Mano libre H",
+            "special": true,
+            "images": [
+                "./assets/productos/ManosLibresH-Beige.jpeg",
+                "./assets/productos/ManosLibresH-Beige2.jpeg"
+            ]
         },
         {
             "id": 17,
-            "name": "",
+            "name": "Manos libre H Azul",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0070.jpg"
+            "category": "Mano libre H",
+            "special": false,
+            "images": [
+                "./assets/productos/ManosLibresH-Azul.jpeg",
+                "./assets/productos/ManosLibresH-Azul2.jpeg"
+            ]
         },
         {
             "id": 18,
-            "name": "",
+            "name": "Manos libre H Negro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0071.jpg"
+            "category": "Mano libre H",
+            "special": false,
+            "images": [
+                "./assets/productos/ManosLibresH-Negro.jpeg",
+                "./assets/productos/ManosLibresH-Negro2.jpeg",
+                "./assets/productos/ManosLibresH-Negro3.jpeg",
+                "./assets/productos/ManosLibresH-Negro4.jpeg",
+                "./assets/productos/ManosLibresH-Negro5.jpeg",
+                "./assets/productos/ManosLibresH-Negro6.jpeg"
+            ]
         },
         {
             "id": 19,
-            "name": "",
+            "name": "Bolso Dani Vinotinto",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0072.jpg"
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-Vinotinto.jpeg",
+                "./assets/productos/Dani-Vinotinto2.jpeg"
+            ]
         },
-        {
+                {
             "id": 20,
-            "name": "",
+            "name": "Bolso Dani Vinotinto-Beige",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0073.jpg"
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-VinotintoBeige.jpeg",
+                "./assets/productos/Dani-VinotintoBeige2.jpeg"
+            ]
         },
-        {
+                {
             "id": 21,
-            "name": "",
+            "name": "Bolso Dani Negro",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0074.jpg"
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-Negro.jpeg"
+            ]
         },
-        {
+                {
             "id": 22,
-            "name": "",
+            "name": "Bolso Dani Cafe-Nude",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0075.jpg"
+            "category": "Bolso Dani",
+            "special": true,
+            "images": [
+                "./assets/productos/Dani-CafeNude.jpeg",
+                "./assets/productos/Dani-CafeNude2.jpeg"
+            ]
         },
-        {
+                {
             "id": 23,
-            "name": "",
+            "name": "Bolso Dani Nude-Cafe",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0076.jpg"
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-NudeCafe.jpeg",
+                "./assets/productos/Dani-NudeCafe2.jpeg"
+            ]
         },
-        {
+                {
             "id": 24,
-            "name": "",
+            "name": "Bolso Dani Beige",
             "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0077.jpg"
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-Beige.jpeg",
+                "./assets/productos/Dani-Beige2.jpeg"
+            ]
         },
-        {
+                {
             "id": 25,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0078.jpg"
-        },
-        {
-            "id": 26,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0079.jpg"
-        },
-        {
-            "id": 27,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0080.jpg"
-        },
-        {
-            "id": 28,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0081.jpg"
-        },
-        {
-            "id": 29,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0082.jpg"
-        },
-        {
-            "id": 30,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0083.jpg"
-        },
-        {
-            "id": 31,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0084.jpg"
-        },
-        {
-            "id": 32,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0085.jpg"
-        },
-        {
-            "id": 33,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0086.jpg"
-        },
-        {
-            "id": 34,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0087.jpg"
-        },
-        {
-            "id": 35,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0088.jpg"
-        },
-        {
-            "id": 36,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0089.jpg"
-        },
-        {
-            "id": 37,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0090.jpg"
-        },
-        {
-            "id": 38,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0091.jpg"
-        },
-        {
-            "id": 39,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0092.jpg"
-        },
-        {
-            "id": 40,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0093.jpg"
-        },
-        {
-            "id": 41,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0094.jpg"
-        },
-        {
-            "id": 42,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0095.jpg"
-        },
-        {
-            "id": 43,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0096.jpg"
-        },
-        {
-            "id": 44,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0097.jpg"
-        },
-        {
-            "id": 45,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0098.jpg"
-        },
-        {
-            "id": 46,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0099.jpg"
-        },
-        {
-            "id": 47,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0100.jpg"
-        },
-        {
-            "id": 48,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0101.jpg"
-        },
-        {
-            "id": 49,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0102.jpg"
-        },
-        {
-            "id": 50,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0103.jpg"
-        },
-        {
-            "id": 51,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0104.jpg"
-        },
-        {
-            "id": 52,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0105.jpg"
-        },
-        {
-            "id": 53,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0106.jpg"
-        },
-        {
-            "id": 54,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0107.jpg"
-        },
-        {
-            "id": 55,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0108.jpg"
-        },
-        {
-            "id": 56,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0109.jpg"
-        },
-        {
-            "id": 57,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0110.jpg"
-        },
-        {
-            "id": 58,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0111.jpg"
-        },
-        {
-            "id": 59,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0112.jpg"
-        },
-        {
-            "id": 60,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0113.jpg"
-        },
-        {
-            "id": 61,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0114.jpg"
-        },
-        {
-            "id": 62,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0115.jpg"
-        },
-        {
-            "id": 63,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0116.jpg"
-        },
-        {
-            "id": 64,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0117.jpg"
-        },
-        {
-            "id": 65,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0118.jpg"
-        },
-        {
-            "id": 66,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0119.jpg"
-        },
-        {
-            "id": 67,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0120.jpg"
-        },
-        {
-            "id": 68,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0121.jpg"
-        },
-        {
-            "id": 69,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0122.jpg"
-        },
-        {
-            "id": 70,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0123.jpg"
-        },
-        {
-            "id": 71,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0124.jpg"
-        },
-        {
-            "id": 72,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0125.jpg"
-        },
-        {
-            "id": 73,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0126.jpg"
-        },
-        {
-            "id": 74,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0127.jpg"
-        },
-        {
-            "id": 75,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0128.jpg"
-        },
-        {
-            "id": 76,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0129.jpg"
-        },
-        {
-            "id": 77,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0130.jpg"
-        },
-        {
-            "id": 78,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0131.jpg"
-        },
-        {
-            "id": 79,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0132.jpg"
-        },
-        {
-            "id": 80,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0133.jpg"
-        },
-        {
-            "id": 81,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0134.jpg"
-        },
-        {
-            "id": 82,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0135.jpg"
-        },
-        {
-            "id": 83,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0136.jpg"
-        },
-        {
-            "id": 84,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0137.jpg"
-        },
-        {
-            "id": 85,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0138.jpg"
-        },
-        {
-            "id": 86,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0139.jpg"
-        },
-        {
-            "id": 87,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0140.jpg"
-        },
-        {
-            "id": 88,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0141.jpg"
-        },
-        {
-            "id": 89,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0142.jpg"
-        },
-        {
-            "id": 90,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0143.jpg"
-        },
-        {
-            "id": 91,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0144.jpg"
-        },
-        {
-            "id": 92,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0145.jpg"
-        },
-        {
-            "id": 93,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0146.jpg"
-        },
-        {
-            "id": 94,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0147.jpg"
-        },
-        {
-            "id": 95,
-            "name": "",
-            "price": "",
-            "category": "",
-            "image": "./assets/productos/IMG-20241022-WA0148.jpg"
+            "name": "Bolso Dani Rojo",
+            "price": "",
+            "category": "Bolso Dani",
+            "special": false,
+            "images": [
+                "./assets/productos/Dani-Rojo.jpeg"
+            ]
         }
     ]
 }
